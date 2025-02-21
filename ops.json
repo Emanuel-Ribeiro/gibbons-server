@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "76841406-4ea7-3670-aa77-483a4bf43844",
+    "name": "terraformapply\u001b[d\u001b[d\u001b[d",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "942305fb-d22c-350b-939e-b79ff3c9fc45",
+    "name": "ImagePullBackOff",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "35e70c97-ea83-33e0-8bb1-b71e575cce21",
+    "name": "TerraformApply",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "442f96d5-7e1e-4b25-bcc5-7ca08a51e19a",
+    "name": "TerraformApply",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dc3ae74c-7326-4a95-90d3-24963b867b47",
+    "name": "ImagePullBackOff",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
